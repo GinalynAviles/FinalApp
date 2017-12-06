@@ -1,0 +1,14 @@
+
+.text{
+	font-size: 50px;
+	font-family: 'arial';
+
+}
+
+
+ul li:hover{
+    background: violet;
+}
+.navbar{
+	background-color: green;
+}
